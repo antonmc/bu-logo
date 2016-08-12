@@ -2,7 +2,7 @@ This repo contains logo design ideas and digital sketches for a high school hack
 
 The project they're working on is called 'BU' ( be you ) an app that uses natural language analysis to help you understand how you're framed in social media. The team cleverly used the letters b and u together to form a logo ...
 
-These are the original sketches of the logo idea
+Here are the original sketches of the logo idea ...
 
 ![Originial Sketch](./BU team logo sketch.jpeg)
 
@@ -39,3 +39,9 @@ These are the original sketches of the logo idea
 [7] uniform color for version 6 - the shape feels strong enough to carry the letters and gesture
 
 ![Seventh Cut](./bu-logo-7.png)
+
+--
+
+I like version seven espcially because there is symmetry with the left and and right angled lines anchored in the circle. Also - this is Cleveland, home of the Rock and Roll hall of fame, so it is really appropriate.
+
+
