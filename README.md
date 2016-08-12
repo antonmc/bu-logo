@@ -38,4 +38,4 @@ These are the original sketches of the logo idea
 
 [7] uniform color for version 6 - the shape feels strong enough to carry the letters and gesture
 
-![Seventh Cut](./bu-logo-67.png)
+![Seventh Cut](./bu-logo-7.png)
