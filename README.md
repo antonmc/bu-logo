@@ -42,6 +42,9 @@ Here are the original sketches of the logo idea ...
 
 --
 
-I like version seven espcially because there is symmetry with the left and and right angled lines anchored in the circle. Also - this is Cleveland, home of the Rock and Roll hall of fame, so it is really appropriate.
+I like version seven espcially because there is symmetry with the left and and right angled lines anchored in the circle. It also offers two interpretations of 'b' and 'u' hidden inside.
+
+
+Also - this is Cleveland, home of the Rock and Roll hall of fame, so it is really appropriate.
 
 
