@@ -16,7 +16,7 @@ Here are the original sketches of the logo idea ...
 ![Second Cut](./bu-logo-2.png)
 
 
-[3] trying the arch of the 'b' behind the 'u'
+[3] bringing the 'u' to the front
 
 ![Third Cut](./bu-logo-3.png)
 
